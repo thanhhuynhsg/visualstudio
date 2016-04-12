@@ -1,0 +1,8 @@
+F:\Git\Visual Studio\Topic7\Topic7\bin\Debug\Topic7.exe.config
+F:\Git\Visual Studio\Topic7\Topic7\bin\Debug\Topic7.exe
+F:\Git\Visual Studio\Topic7\Topic7\bin\Debug\Topic7.pdb
+F:\Git\Visual Studio\Topic7\Topic7\obj\Debug\Topic7.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\Topic7\Topic7\obj\Debug\Topic7.exe
+F:\Git\Visual Studio\Topic7\Topic7\obj\Debug\Topic7.pdb
+F:\Git\Visual Studio\Topic7\Topic7\obj\Debug\Interop.WMPLib.dll
+F:\Git\Visual Studio\Topic7\Topic7\obj\Debug\Topic7.csproj.ResolveComReference.cache

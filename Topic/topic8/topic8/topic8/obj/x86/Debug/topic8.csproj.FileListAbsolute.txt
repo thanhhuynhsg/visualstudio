@@ -1,0 +1,9 @@
+D:\T145588\topic8\topic8\bin\Debug\topic8.exe
+D:\T145588\topic8\topic8\bin\Debug\topic8.pdb
+D:\T145588\topic8\topic8\obj\x86\Debug\topic8.exe
+D:\T145588\topic8\topic8\obj\x86\Debug\topic8.pdb
+F:\Git\Visual Studio\topic8\topic8\topic8\obj\x86\Debug\topic8.exe
+F:\Git\Visual Studio\topic8\topic8\topic8\obj\x86\Debug\topic8.pdb
+F:\Git\Visual Studio\topic8\topic8\topic8\bin\Debug\topic8.exe
+F:\Git\Visual Studio\topic8\topic8\topic8\bin\Debug\topic8.pdb
+F:\Git\Visual Studio\topic8\topic8\topic8\obj\x86\Debug\topic8.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\Git\Visual Studio\Topic5_Classes\Topic5_Classes\bin\Debug\Topic5_Classes.exe.config
+F:\Git\Visual Studio\Topic5_Classes\Topic5_Classes\obj\Debug\Topic5_Classes.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\Topic5_Classes\Topic5_Classes\bin\Debug\Topic5_Classes.exe
+F:\Git\Visual Studio\Topic5_Classes\Topic5_Classes\bin\Debug\Topic5_Classes.pdb
+F:\Git\Visual Studio\Topic5_Classes\Topic5_Classes\obj\Debug\Topic5_Classes.exe
+F:\Git\Visual Studio\Topic5_Classes\Topic5_Classes\obj\Debug\Topic5_Classes.pdb

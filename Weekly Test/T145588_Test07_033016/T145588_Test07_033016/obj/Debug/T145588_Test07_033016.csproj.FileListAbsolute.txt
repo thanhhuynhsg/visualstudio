@@ -1,0 +1,6 @@
+F:\Git\Visual Studio\T145588_Test07_033016\T145588_Test07_033016\bin\Debug\T145588_Test07_033016.exe.config
+F:\Git\Visual Studio\T145588_Test07_033016\T145588_Test07_033016\bin\Debug\T145588_Test07_033016.exe
+F:\Git\Visual Studio\T145588_Test07_033016\T145588_Test07_033016\bin\Debug\T145588_Test07_033016.pdb
+F:\Git\Visual Studio\T145588_Test07_033016\T145588_Test07_033016\obj\Debug\T145588_Test07_033016.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\T145588_Test07_033016\T145588_Test07_033016\obj\Debug\T145588_Test07_033016.exe
+F:\Git\Visual Studio\T145588_Test07_033016\T145588_Test07_033016\obj\Debug\T145588_Test07_033016.pdb

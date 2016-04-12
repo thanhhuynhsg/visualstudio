@@ -1,0 +1,6 @@
+F:\Git\Visual Studio\DocSo\DocSo\bin\Debug\DocSo.exe.config
+F:\Git\Visual Studio\DocSo\DocSo\obj\Debug\DocSo.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\DocSo\DocSo\bin\Debug\DocSo.exe
+F:\Git\Visual Studio\DocSo\DocSo\bin\Debug\DocSo.pdb
+F:\Git\Visual Studio\DocSo\DocSo\obj\Debug\DocSo.exe
+F:\Git\Visual Studio\DocSo\DocSo\obj\Debug\DocSo.pdb

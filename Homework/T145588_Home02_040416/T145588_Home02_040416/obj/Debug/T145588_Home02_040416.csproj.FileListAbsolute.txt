@@ -1,0 +1,6 @@
+F:\Git\Visual Studio\Homework\T145588_Home02_040416\T145588_Home02_040416\bin\Debug\T145588_Home02_040416.exe.config
+F:\Git\Visual Studio\Homework\T145588_Home02_040416\T145588_Home02_040416\bin\Debug\T145588_Home02_040416.exe
+F:\Git\Visual Studio\Homework\T145588_Home02_040416\T145588_Home02_040416\bin\Debug\T145588_Home02_040416.pdb
+F:\Git\Visual Studio\Homework\T145588_Home02_040416\T145588_Home02_040416\obj\Debug\T145588_Home02_040416.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\Homework\T145588_Home02_040416\T145588_Home02_040416\obj\Debug\T145588_Home02_040416.exe
+F:\Git\Visual Studio\Homework\T145588_Home02_040416\T145588_Home02_040416\obj\Debug\T145588_Home02_040416.pdb

@@ -1,0 +1,6 @@
+F:\Git\Visual Studio\ConsoleApplication1\Predict\Predict\bin\Debug\Predict.exe.config
+F:\Git\Visual Studio\ConsoleApplication1\Predict\Predict\bin\Debug\Predict.exe
+F:\Git\Visual Studio\ConsoleApplication1\Predict\Predict\bin\Debug\Predict.pdb
+F:\Git\Visual Studio\ConsoleApplication1\Predict\Predict\obj\Debug\Predict.exe
+F:\Git\Visual Studio\ConsoleApplication1\Predict\Predict\obj\Debug\Predict.pdb
+F:\Git\Visual Studio\ConsoleApplication1\Predict\Predict\obj\Debug\Predict.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe.config
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.pdb
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.AboutBox.resources
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.DemoForm.resources
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.Properties.Resources.resources
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csproj.GenerateResource.Cache
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.exe
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.pdb
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe.config
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.exe
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.pdb
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.pdb
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.AboutBox.resources
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.DemoForm.resources
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.Properties.Resources.resources
+F:\Git\Visual Studio\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csproj.GenerateResource.Cache

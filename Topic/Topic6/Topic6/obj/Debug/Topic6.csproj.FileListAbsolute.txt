@@ -1,0 +1,6 @@
+F:\Git\Visual Studio\Topic6\Topic6\bin\Debug\Topic6.exe.config
+F:\Git\Visual Studio\Topic6\Topic6\bin\Debug\Topic6.exe
+F:\Git\Visual Studio\Topic6\Topic6\bin\Debug\Topic6.pdb
+F:\Git\Visual Studio\Topic6\Topic6\obj\Debug\Topic6.csprojResolveAssemblyReference.cache
+F:\Git\Visual Studio\Topic6\Topic6\obj\Debug\Topic6.exe
+F:\Git\Visual Studio\Topic6\Topic6\obj\Debug\Topic6.pdb
